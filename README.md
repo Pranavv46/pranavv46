@@ -1,30 +1,23 @@
 <h1 align="center">Hey there 👋, I'm Pranav</h1>
-<h3 align="center">Java Full Stack Developer | DevSecOps Explorer | Gamer & Creator</h3>
+<h3 align="center">Python Full Stack Developer | Gamer & Creator</h3>
 
 ---
 
 🔭 **Currently Building**
-- A self-hosted **homelab** for experiments with Docker, Proxmox, and monitoring tools  
-- Secure, scalable **microservices** using Spring Boot and REST APIs  
+-   
 
 🌱 **Currently Learning**
-- **DevSecOps tools** — Docker, GitLab CI/CD, Ansible, and Grafana  
-- **Identity & Access Management (IAM)** — OAuth2, SSO, LDAP, and Spring Security  
-- Exploring **LLMs and Game Engines** to blend AI with interactive systems  
+-   
 
 💼 **Professional Journey**
-- Full Stack Developer specializing in **Java**, **Spring Boot**, and **API development**  
-- Experience working with **IAM solutions** and building secure backend systems  
-- Passionate about **automation, scalability, and cybersecurity**
+- 
 
 👯 **Looking to Collaborate On**
-- Secure, distributed applications  
-- Real-time systems using **AI**, **LLMs**, or **game dev frameworks**  
+-   
 
 📫 **Reach Me At**
-- **Email:** pranav.devmail@gmail.com *(or your preferred email)*  
-- **LinkedIn:** [linkedin.com/in/pranav](#) *(add your link)*  
-- **GitHub:** [github.com/Pranav](#)
+- **Email:** vinupoojavinukumar@gmail.com   
+- **LinkedIn:** 
 
 ⚡ **Fun Fact**
 When I’m not writing code, I’m usually training **calisthenics**, tweaking my **self-hosted setup**, or playing **Valorant** on my YouTube channel — *Madison Gaming 🎮*
@@ -55,8 +48,4 @@ When I’m not writing code, I’m usually training **calisthenics**, tweaking m
 
 ### 🧠 Quotes I Live By
 
-> *“Discipline equals freedom.”* – Jocko Willink  
-> *“The best way to predict the future is to build it.”* – Alan Kay  
-> *“Keep learning, keep creating, and never stop improving.”*
 
----
