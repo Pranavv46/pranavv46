@@ -41,7 +41,7 @@ When I’m not writing code, I’m usually training **calisthenics**, tweaking m
 
 ### 📈 GitHub Stats
 
-![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranav&show_icons=true&theme=radical)
+![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranavv46&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav&layout=compact&theme=radical)
 
 ---
